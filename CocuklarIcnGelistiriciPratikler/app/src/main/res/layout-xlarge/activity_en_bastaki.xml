@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/my3"
+    tools:context="com.abc.xyz.cocuklaricingelistiricipratikler00.EnBastakiActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="636dp"
+        android:layout_height="211dp"
+        android:layout_marginTop="123dp"
+        android:text="Çocuklar İçin Geliştirici Pratikler"
+        android:textColor="@color/my4"
+        android:textSize="48sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <Button
+        android:id="@+id/buttonBasla"
+        android:layout_width="452dp"
+        android:layout_height="296dp"
+        android:layout_marginBottom="123dp"
+        android:backgroundTint="@color/my5"
+        android:text="Pratiğe Başla"
+        android:textColor="@color/my2"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="449dp"
+        android:layout_height="388dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/cocuk00" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

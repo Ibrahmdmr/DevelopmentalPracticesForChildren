@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.abc.xyz.cocuklaricingelistiricipratikler00">
+
+
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/uygulama_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/uygulama_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CocuklarIcınGelistiriciPratikler"
+        tools:targetApi="31">
+        <activity
+            android:name=".EnBastakiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdGirisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BitisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IslemPratikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SayiPratikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".YazmaPratikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OkumaPratikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecimEkraniActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+    </application>
+
+</manifest>

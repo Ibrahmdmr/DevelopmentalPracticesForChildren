@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/my3"
+    tools:context="com.abc.xyz.cocuklaricingelistiricipratikler00.BitisActivity">
+
+    <Button
+        android:id="@+id/buttonTekrarDene"
+        android:layout_width="520dp"
+        android:layout_height="230dp"
+        android:layout_marginBottom="96dp"
+        android:backgroundTint="@color/my5"
+        android:text="TEKRAR DENE"
+        android:textColor="@color/my2"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="293dp"
+        android:layout_height="138dp"
+        android:layout_marginTop="128dp"
+        android:text="Pratiği bitrdiniz"
+        android:textColor="@color/my4"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewAdBitis"
+        android:layout_width="857dp"
+        android:layout_height="332dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="187dp"
+        android:layout_marginEnd="25dp"
+        android:text="TextView"
+        android:textColor="@color/my4"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+</androidx.constraintlayout.widget.ConstraintLayout>

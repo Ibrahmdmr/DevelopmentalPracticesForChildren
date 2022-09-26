@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/drawable/basarili_resim.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.2555" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_ad_giris.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_bitis.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_en_bastaki.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_islem_pratik.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_main.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_okuma_pratik.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_sayi_pratik.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_secim_ekrani.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-large/activity_yazma_pratik.xml" value="0.6" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_ad_giris.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_bitis.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_en_bastaki.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_islem_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_okuma_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_sayi_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_secim_ekrani.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-normal/activity_yazma_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_ad_giris.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_bitis.xml" value="1.0572687224669604" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_en_bastaki.xml" value="1.0572687224669604" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_islem_pratik.xml" value="1.0572687224669604" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_main.xml" value="1.0572687224669604" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_okuma_pratik.xml" value="1.0572687224669604" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_secim_ekrani.xml" value="1.0572687224669604" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-small/activity_yazma_pratik.xml" value="1.0572687224669604" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_ad_giris.xml" value="0.176" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_bitis.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_en_bastaki.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_islem_pratik.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_okuma_pratik.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_sayi_pratik.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_secim_ekrani.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout-xlarge/activity_yazma_pratik.xml" value="0.1875" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_ad_giris.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_bitis.xml" value="0.2" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_en_bastaki.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_islem_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_okuma_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_sayi_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_secim_ekrani.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/activity_yazma_pratik.xml" value="0.25" />
+        <entry key="..\:/Users/id107/AndroidStudioProjects/CocuklarIcnGelistiriciPratikler/app/src/main/res/layout/okuma_pratik_card_tasarim.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
